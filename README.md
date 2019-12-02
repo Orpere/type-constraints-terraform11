@@ -11,13 +11,13 @@ this repo is based on [documentation](https://www.terraform.io/docs/configuratio
 - In a directory of your choice, clone the github repository :
   
 ```bash
-    git clone git@github.com:orlando-pereira/rich-value-types-terraform11.git
+    git clone git@github.com:orlando-pereira/type-constraints-terraform11.git
 ```
 
 - Change into the directory :
   
 ```bash
-    cd rich-value-types-terraform11
+    cd type-constraints-terraform11
 ```
 
 - create a self certificates to test
